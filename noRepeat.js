@@ -1,4 +1,4 @@
-//Algorithm for the the first non repeating letter.
+//Algorithm for the the first non repeating letter in a single word only.
 
 const word = "succeessffully";
 
