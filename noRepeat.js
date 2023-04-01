@@ -16,6 +16,6 @@ function noRepeat (str){
     }
     
   }
-  return "none"
+  return "none of the letters did not repeat"
 }
 console.log(word)
